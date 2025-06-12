@@ -1,0 +1,48 @@
+# Osmo Taxonomy of Smell
+
+> A structured, open vocabulary for describing everything your nose can perceive.
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-red.svg)](LICENSE)
+[![Made with ❤️ by Osmo](https://img.shields.io/badge/made%20by-Osmo-blue)](https://www.osmo.ai)
+
+---
+
+## Quick links
+
+* **Overview:** Read the short [blog post](http://www.google.com)
+* **In depth:** Letter from our master perfumer [Christophe Laudamiel](http://www.google.com)
+* **One‑pager:**
+
+  * [PDF](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/wheel.pdf)
+  * [Smell wheel (PNG)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/wheel.png)
+  * [Term list (PNG)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/terms.png)
+* **Data:**
+
+  * [Spreadsheet (XLSX)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/taxonomy.xlsx)
+  * [Machine‑readable JSON](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/taxonomy.json)
+
+---
+
+## Introduction
+
+**Dear Colleagues, Perfumers, Olfactory Scientists, Fragrance‑Language Experts, and other Enthusiasts,**
+
+Osmo has created an odor taxonomy to describe all possible odors—from perfumery to food to the environment.
+
+### How Was This Taxonomy Elaborated?
+
+Osmo's scientific and artistic teams leveraged decades of cross‑industry knowledge—including flavor & fragrance literature, medical texts, food science, and academic olfaction research. We then sharpened and organized this knowledge into a taxonomy covering all possible odors.
+
+### How Does This Taxonomy Work?
+
+The taxonomy includes **11 Grand Families**, **64 Subfamilies**, and **≈150 additional descriptors**. These elements combine to describe nearly any smell in existence.
+
+### How You Can Help
+
+Share your feedback! Can you think of a smell not covered? Or smells that don’t belong together? Your suggestions will help refine this system, which is used internally at Osmo and offered openly for research and education.  The most effective way to provide feedback is by [opening an issue](https://github.com/rick-osmo/taxonomy/issues/new). 
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/wheel.png" alt="Osmo Taxonomy Wheel" width="450">
+</p>

@@ -12,9 +12,9 @@
 * **Overview:** Read the short [letter](www.generationbyosmo.com/blog/osmo-scent-taxonomy) from our master perfumer Christophe Laudamiel.
 * **One‑pager:**
 
-  * [Full Taxonomy PDF](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/wheel.pdf)
-  * [Taxomomy Families (PNG)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/wheel.png)
-  * [Taxonomy Descriptors (PNG)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/terms.png)
+  * [Full Taxonomy PDF](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/taxonomy.pdf)
+  * [Taxomomy Families (PNG)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/families.png)
+  * [Taxonomy Descriptors (PNG)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/descriptors.png)
 * **Data:**
 
   * [Spreadsheet (XLSX)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/taxonomy.xlsx)

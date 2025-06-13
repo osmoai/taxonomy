@@ -12,13 +12,13 @@
 * **Overview:** Read the short [letter](www.generationbyosmo.com/blog/osmo-scent-taxonomy) from our master perfumer Christophe Laudamiel.
 * **One‑pager:**
 
-  * [Full Taxonomy PDF](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/taxonomy.pdf)
-  * [Taxomomy Families (PNG)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/families.png)
-  * [Taxonomy Descriptors (PNG)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/descriptors.png)
+  * [Full Taxonomy PDF](https://raw.githubusercontent.com/osmoai/taxonomy/refs/heads/main/data/taxonomy.pdf)
+  * [Taxomomy Families (PNG)](https://raw.githubusercontent.com/osmoai/taxonomy/refs/heads/main/data/families.png)
+  * [Taxonomy Descriptors (PNG)](https://raw.githubusercontent.com/osmoai/taxonomy/refs/heads/main/data/descriptors.png)
 * **Data:**
 
-  * [Spreadsheet (XLSX)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/taxonomy.xlsx)
-  * [Machine‑readable JSON](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/taxonomy.json)
+  * [Spreadsheet (XLSX)](https://raw.githubusercontent.com/osmoai/taxonomy/refs/heads/main/data/taxonomy.xlsx)
+  * [Machine‑readable JSON](https://raw.githubusercontent.com/osmoai/taxonomy/refs/heads/main/data/taxonomy.json)
 
 ---
 
@@ -38,10 +38,10 @@ The taxonomy includes **11 Grand Families**, **64 Subfamilies**, and **≈150
 
 ### How You Can Help
 
-Share your feedback! Can you think of a smell not covered? Or smells that don’t belong together? Your suggestions will help refine this system, which is used internally at Osmo and offered openly for research and education.  The most effective way to provide feedback is by [opening an issue](https://github.com/rick-osmo/taxonomy/issues/new). 
+Share your feedback! Can you think of a smell not covered? Or smells that don’t belong together? Your suggestions will help refine this system, which is used internally at Osmo and offered openly for research and education.  The most effective way to provide feedback is by [opening an issue](https://github.com/osmoai/taxonomy/issues/new). 
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/wheel.png" alt="Osmo Taxonomy Wheel" width="450">
+  <img src="https://raw.githubusercontent.com/osmoai/taxonomy/refs/heads/main/data/families.png" alt="Osmo Scent Taxonomy Families" width="450">
 </p>

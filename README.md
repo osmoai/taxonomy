@@ -2,15 +2,14 @@
 
 > A structured, open vocabulary for describing everything your nose can perceive.
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-red.svg)](LICENSE)
+[![License: ODC-ODbL](https://img.shields.io/badge/license-ODbL-red.svg)](LICENSE)
 [![Made with ❤️ by Osmo](https://img.shields.io/badge/made%20by-Osmo-blue)](https://www.osmo.ai)
 
 ---
 
 ## Quick links
 
-* **Overview:** Read the short [blog post](http://www.google.com)
-* **In depth:** Letter from our master perfumer [Christophe Laudamiel]()
+* **Overview:** Read the short [letter](www.generationbyosmo.com/blog/osmo-scent-taxonomy) from our master perfumer Christophe Laudamiel.
 * **One‑pager:**
 
   * [Full Taxonomy PDF](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/wheel.pdf)

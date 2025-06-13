@@ -13,9 +13,9 @@
 * **In depth:** Letter from our master perfumer [Christophe Laudamiel]()
 * **One‑pager:**
 
-  * [PDF](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/wheel.pdf)
-  * [Smell wheel (PNG)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/wheel.png)
-  * [Term list (PNG)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/terms.png)
+  * [Full Taxonomy PDF](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/wheel.pdf)
+  * [Taxomomy Families (PNG)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/wheel.png)
+  * [Taxonomy Descriptors (PNG)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/terms.png)
 * **Data:**
 
   * [Spreadsheet (XLSX)](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/taxonomy.xlsx)

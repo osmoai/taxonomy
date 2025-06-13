@@ -10,7 +10,7 @@
 ## Quick links
 
 * **Overview:** Read the short [blog post](http://www.google.com)
-* **In depth:** Letter from our master perfumer [Christophe Laudamiel](http://www.google.com)
+* **In depth:** Letter from our master perfumer [Christophe Laudamiel]()
 * **One‑pager:**
 
   * [PDF](https://raw.githubusercontent.com/rick-osmo/taxonomy/refs/heads/main/data/wheel.pdf)
@@ -35,7 +35,7 @@ Osmo's scientific and artistic teams leveraged decades of cross‑industry knowl
 
 ### How Does This Taxonomy Work?
 
-The taxonomy includes **11 Grand Families**, **64 Subfamilies**, and **≈150 additional descriptors**. These elements combine to describe nearly any smell in existence.
+The taxonomy includes **11 Grand Families**, **64 Subfamilies**, and **≈150 additional descriptors**. These elements combine to describe nearly any smell in existence. To learn more about the taxonomy, please read [this letter]() from our master perfumer Christophe Laudamiel.
 
 ### How You Can Help
 

@@ -1,4 +1,4 @@
-# Osmo Taxonomy of Smell
+# Osmo Scent Taxonomy
 
 > A structured, open vocabulary for describing everything your nose can perceive.
 
@@ -27,11 +27,11 @@
 
 **Dear Colleagues, Perfumers, Olfactory Scientists, Fragrance‑Language Experts, and other Enthusiasts,**
 
-Osmo has created an odor taxonomy to describe all possible odors—from perfumery to food to the environment.
+Osmo has created a scent taxonomy to describe all possible scents—from perfumery to food to the environment.
 
 ### How Was This Taxonomy Elaborated?
 
-Osmo's scientific and artistic teams leveraged decades of cross‑industry knowledge—including flavor & fragrance literature, medical texts, food science, and academic olfaction research. We then sharpened and organized this knowledge into a taxonomy covering all possible odors.
+Osmo's scientific and artistic teams leveraged decades of cross‑industry knowledge—including flavor & fragrance literature, medical texts, food science, and academic olfaction research. We then sharpened and organized this knowledge into a taxonomy covering all possible scents.
 
 ### How Does This Taxonomy Work?
 

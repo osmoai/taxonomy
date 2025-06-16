@@ -26,7 +26,7 @@
 
 **Dear Colleagues, Perfumers, Olfactory Scientists, Fragrance‑Language Experts, and other Enthusiasts,**
 
-Osmo has created a scent taxonomy to describe all possible scents—from perfumery to food to the environment.
+[Osmo](https://www.osmo.ai/) has created a scent taxonomy to describe all possible scents—from perfumery to food to the environment.
 
 ### How Was This Taxonomy Elaborated?
 

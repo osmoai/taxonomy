@@ -57,6 +57,6 @@ If publishing using this work, please cite as (bibtex format):
   author       = {Osmo Labs, PBC},
   howpublished = {\url{https://github.com/osmoai/taxonomy}},
   year         = {2025},
-  version      = {1.0},
+  version      = {1.1},
 }
 ```

@@ -2,7 +2,7 @@
 
 ──────────────────────────────────────────────
 
-© 2025-26 Osmo, Inc.
+© 2025-26 Osmo Lab, PBC
 This work is licensed under the Open Data Commons Open Database License (ODbL) v1.0.
 
 You are free to:

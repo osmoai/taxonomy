@@ -34,7 +34,7 @@ Osmo's scientific and artistic teams leveraged decades of cross‑industry knowl
 
 ### How Does This Taxonomy Work?
 
-The taxonomy includes **11 Grand Families**, **64 Subfamilies**, and **≈150 additional descriptors**. These elements combine to describe nearly any smell in existence. To learn more about the taxonomy, please read [this letter](https://www.generationbyosmo.com/blog/osmo-scent-taxonomy) from our master perfumer Christophe Laudamiel.
+The taxonomy includes **11 Grand Families**, **63 Subfamilies**, and **138 additional descriptors**, plus **27 textures** and **15 sensations**. These elements combine to describe nearly any smell in existence. To learn more about the taxonomy, please read [this letter](https://www.generationbyosmo.com/blog/osmo-scent-taxonomy) from our master perfumer Christophe Laudamiel.
 
 ### How You Can Help
 
@@ -52,11 +52,11 @@ ___
 
 If publishing using this work, please cite as (bibtex format):
 ```
-@misc{osmo_scent_taxonomy_2025,
+@misc{osmo_scent_taxonomy_2026,
   title        = {The Osmo Scent Taxonomy},
   author       = {Osmo Labs, PBC},
   howpublished = {\url{https://github.com/osmoai/taxonomy}},
-  year         = {2025},
-  version      = {1.1},
+  year         = {2026},
+  version      = {1.2},
 }
 ```

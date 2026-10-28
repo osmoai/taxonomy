@@ -9,7 +9,7 @@
 
 ## Quick links
 
-* **Overview:** Read the short [letter](https://www.generationbyosmo.com/blog/osmo-scent-taxonomy) from our master perfumer Christophe Laudamiel.
+* **Overview:** Read the short [letter](https://www.osmo.ai/blog/osmo-scent-taxonomy) from our master perfumer Christophe Laudamiel.
 * **One‑pager:**
 
   * [Full Taxonomy PDF](https://raw.githubusercontent.com/osmoai/taxonomy/refs/heads/main/data/taxonomy.pdf)
@@ -34,7 +34,7 @@ Osmo's scientific and artistic teams leveraged decades of cross‑industry knowl
 
 ### How Does This Taxonomy Work?
 
-The taxonomy includes **11 Grand Families**, **63 Subfamilies**, and **138 additional descriptors**, plus **27 textures** and **15 sensations**. These elements combine to describe nearly any smell in existence. To learn more about the taxonomy, please read [this letter](https://www.generationbyosmo.com/blog/osmo-scent-taxonomy) from our master perfumer Christophe Laudamiel.
+The taxonomy includes **11 Grand Families**, **63 Subfamilies**, and **138 additional descriptors**, plus **27 textures** and **15 sensations**. These elements combine to describe nearly any smell in existence. To learn more about the taxonomy, please read [this letter](https://www.osmo.ai/blog/osmo-scent-taxonomy) from our master perfumer Christophe Laudamiel.
 
 ### How You Can Help
 
